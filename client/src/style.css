@@ -34,24 +34,3 @@ input {
     text-align: center;
     background-color: transparent;
 }
-
-/* 
-main {
-    padding: 20px;
-}
-
-#tabs {
-    text-align: center;
-
-}
-
-#tabs>nav {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
-    border: 1px solid #ccc;
-    padding: 10px;
-    border-radius: 10px;
-    text-align: center;
-} */
