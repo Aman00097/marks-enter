@@ -13,8 +13,6 @@ router.get('/', async (req, res) => {
 });
 
 router.post('/', async (req, res) => {
-    console.log(req);
-    
     const results = req.body.results;
 
     try {
